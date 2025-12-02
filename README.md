@@ -1,2 +1,2 @@
 # readme
-<p><a href="https://simplybeyond.dk/">https://simplybeyond.dk/</a></p>
+<p><a href="https://simplybeyond.dk/collections/silketoerklaede">https://simplybeyond.dk/collections/silketoerklaede</a></p>
